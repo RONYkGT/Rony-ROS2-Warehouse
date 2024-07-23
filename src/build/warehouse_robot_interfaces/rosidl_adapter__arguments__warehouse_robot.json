@@ -1,0 +1,7 @@
+{
+  "package_name": "warehouse_robot",
+  "non_idl_tuples": [
+    "/home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/warehouse_robot_interfaces:action/DeliverItem.action",
+    "/home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/warehouse_robot_interfaces:srv/CheckStock.srv"
+  ]
+}

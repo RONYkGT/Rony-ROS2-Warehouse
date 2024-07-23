@@ -1,0 +1,6 @@
+[console_scripts]
+item_delivery_client = warehouse_robot.item_delivery_action_client:main
+item_delivery_server = warehouse_robot.item_delivery_action_server:main
+stock_checker_client = warehouse_robot.stock_checker_service_client:main
+stock_checker_server = warehouse_robot.stock_checker_service_server:main
+

@@ -1,0 +1,6 @@
+[0.000000] (-) TimerEvent: {}
+[0.000286] (-) JobUnselected: {'identifier': 'warehouse_robot'}
+[0.000308] (warehouse_robot_interfaces) JobQueued: {'identifier': 'warehouse_robot_interfaces', 'dependencies': OrderedDict()}
+[0.000325] (warehouse_robot_interfaces) JobStarted: {'identifier': 'warehouse_robot_interfaces'}
+[0.018800] (warehouse_robot_interfaces) JobEnded: {'identifier': 'warehouse_robot_interfaces', 'rc': 1}
+[0.029012] (-) EventReactorShutdown: {}

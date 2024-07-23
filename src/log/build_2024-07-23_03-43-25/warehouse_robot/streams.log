@@ -1,0 +1,42 @@
+[0.422s] Invoking command in '/home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/warehouse_robot': PYTHONPATH=/home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/warehouse_robot build --build-base /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build install --record /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/install.log --single-version-externally-managed install_data
+[0.565s] running egg_info
+[0.566s] creating ../build/warehouse_robot/warehouse_robot.egg-info
+[0.566s] writing ../build/warehouse_robot/warehouse_robot.egg-info/PKG-INFO
+[0.566s] writing dependency_links to ../build/warehouse_robot/warehouse_robot.egg-info/dependency_links.txt
+[0.566s] writing entry points to ../build/warehouse_robot/warehouse_robot.egg-info/entry_points.txt
+[0.566s] writing requirements to ../build/warehouse_robot/warehouse_robot.egg-info/requires.txt
+[0.566s] writing top-level names to ../build/warehouse_robot/warehouse_robot.egg-info/top_level.txt
+[0.566s] writing manifest file '../build/warehouse_robot/warehouse_robot.egg-info/SOURCES.txt'
+[0.567s] reading manifest file '../build/warehouse_robot/warehouse_robot.egg-info/SOURCES.txt'
+[0.567s] writing manifest file '../build/warehouse_robot/warehouse_robot.egg-info/SOURCES.txt'
+[0.568s] running build
+[0.568s] running build_py
+[0.568s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build
+[0.568s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib
+[0.568s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot
+[0.568s] copying warehouse_robot/__init__.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot
+[0.568s] copying warehouse_robot/item_delivery_action_client.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot
+[0.568s] copying warehouse_robot/item_delivery_action_server.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot
+[0.568s] copying warehouse_robot/stock_checker_service_server.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot
+[0.568s] copying warehouse_robot/stock_checker_service_client.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot
+[0.568s] running install
+[0.568s] running install_lib
+[0.569s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot
+[0.569s] copying /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot/__init__.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot
+[0.569s] copying /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot/item_delivery_action_client.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot
+[0.569s] copying /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot/item_delivery_action_server.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot
+[0.569s] copying /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot/stock_checker_service_server.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot
+[0.569s] copying /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/build/warehouse_robot/build/lib/warehouse_robot/stock_checker_service_client.py -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot
+[0.569s] byte-compiling /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot/__init__.py to __init__.cpython-310.pyc
+[0.569s] byte-compiling /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot/item_delivery_action_client.py to item_delivery_action_client.cpython-310.pyc
+[0.570s] byte-compiling /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot/item_delivery_action_server.py to item_delivery_action_server.cpython-310.pyc
+[0.570s] byte-compiling /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot/stock_checker_service_server.py to stock_checker_service_server.cpython-310.pyc
+[0.570s] byte-compiling /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/lib/python3.10/site-packages/warehouse_robot/stock_checker_service_client.py to stock_checker_service_client.cpython-310.pyc
+[0.571s] running install_data
+[0.571s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/share/ament_index
+[0.571s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/share/ament_index/resource_index
+[0.571s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/share/ament_index/resource_index/packages
+[0.571s] copying resource/warehouse_robot -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/share/ament_index/resource_index/packages
+[0.571s] copying package.xml -> /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/share/warehouse_robot
+[0.571s] creating /home/rony/Documents/inmind/Session06/Rony-ROS2-Warehouse/src/install/warehouse_robot/share/warehouse_robot/launch
+[0.571s] error: can't copy 'launch/warehouse_robot_launch.py': doesn't exist or not a regular file
